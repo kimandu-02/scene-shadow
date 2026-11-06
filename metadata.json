@@ -1,0 +1,6 @@
+{
+  "name": "Scene Shadow: Despicable Me 4",
+  "description": "Educational movie-clip English shadowing app for Despicable Me 4 with YouTube segment playback, voice recording, step-by-step shadowing guidance, and self-evaluation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
